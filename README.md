@@ -14,12 +14,6 @@ This is a simple **QR Code Generator** built with **Python**, **Tkinter GUI**, a
 
 ---
 
-## 🖼️ GUI Preview
-
-*(Add a screenshot here if desired)*
-
----
-
 ## 🧰 Requirements
 
 Make sure you have Python 3 installed.
