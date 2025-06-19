@@ -24,8 +24,7 @@ pip install qrcode[pil]
 pip install pillow
 
 🧑‍💻 How to Run
-Clone the repository or download the Python file:
-git clone https://github.com/yourusername/qr-code-generator.git
+Clone the repository or download the Python file
 cd qr-code-generator
 
 Run the script:
